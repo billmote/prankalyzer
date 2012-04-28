@@ -1,0 +1,31 @@
+{
+    "results":[
+	{
+	    "_id":"4",
+	    "version_name":"1.3",
+	    "reason_to_upgrade":"Added menu options to all screens."
+	},
+	{
+	    "_id":"3",
+	    "version_name":"1.2",
+	    "reason_to_upgrade":"Microphone sensitivity tweaks."
+	},
+	{
+	    "_id":"2",
+	    "version_name":"1.1",
+	    "reason_to_upgrade":"Prank image bug fix."
+	},
+	{
+	    "_id":"1",
+	    "version_name":"1.0",
+	    "reason_to_upgrade":"Initial release."
+	}
+    ],
+    "motd_id":2,
+    "motd_text":"Thank you for your purchase! If you have issues please contact me via the in-app Feedback.",
+    "upgrade_url":"https://play.google.com/store/apps/details?id=com.androidfu.prankalyzer",
+    "result_hash":"79054025255fb1a26e4bc422aef54eb4",
+    "motd_frequency":"0,d",
+    "upgrade_nag_frequency":"0,d",
+    "app_low_watermark":"1"
+}
